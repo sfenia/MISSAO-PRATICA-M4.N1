@@ -1,4 +1,4 @@
-# explore_mundo_app
+# Descubra Novos Mundos
 
 A new Flutter project.
 
